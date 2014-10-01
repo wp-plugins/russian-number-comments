@@ -1,5 +1,6 @@
 === Russian Number Comments ===
 Contributors: flector
+Donate link: http://goo.gl/uhnS7k
 Tags: comments, comments_number, comments_popup_link
 Requires at least: 2.3
 Tested up to: 4.0
@@ -14,6 +15,16 @@ Stable tag: 1.1
 Помимо этого, с помощью этого плагина можно заменить стандартную функцию comments_popup_link на функцию плагина russian_comments, которая позволит вам выводить произвольный заголовок (title) у ссылок на комментарии.
   
 Более подробную информацию вы найдете на [странице плагина](http://www.wordpressplugins.ru/critical/2-4-comment-fix.html).
+
+Если вам понравился мой плагин, то `пожалуйста` поставьте ему 5 звезд.
+
+Другие мои плагины:
+
+- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - классный виджет вывода облака меток.
+- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - спойлер в стиле rutracker.org. 
+- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - плагин скрывает даты в записей от гугла. 
+- [Noindex Links](http://wordpress.org/plugins/noindex-links/) - тег &lt;noindex&gt; для ссылок в комментариях. 
+- [WP Russian Quicktags](http://wordpress.org/plugins/wp-russian-quicktags/) - панель форматирования текста комментариев. 
 
 == Installation ==
 
