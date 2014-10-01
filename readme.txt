@@ -18,13 +18,6 @@ Stable tag: 1.1
 
 Если вам понравился мой плагин, то `пожалуйста` поставьте ему 5 звезд.
 
-Другие мои плагины:
-
-- [Cool Tag Cloud](http://wordpress.org/plugins/cool-tag-cloud/) - классный виджет вывода облака меток.
-- [BBSpoiler](http://wordpress.org/plugins/bbspoiler/) - спойлер в стиле rutracker.org. 
-- [Hide My Dates](http://wordpress.org/plugins/hide-my-dates/) - плагин скрывает даты в записей от гугла. 
-- [Noindex Links](http://wordpress.org/plugins/noindex-links/) - тег &lt;noindex&gt; для ссылок в комментариях. 
-- [WP Russian Quicktags](http://wordpress.org/plugins/wp-russian-quicktags/) - панель форматирования текста комментариев. 
 
 == Installation ==
 
