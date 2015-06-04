@@ -5,7 +5,7 @@ Plugin URI: http://www.wordpressplugins.ru/critical/2-4-comment-fix.html
 Description: Исправляет окончания в комментариях. Делает из "2 комментариев" - "2 комментария". Подробно об установке и настройке этого плагина вы можете прочитать на <a href="http://www.wordpressplugins.ru/critical/2-4-comment-fix.html">странице</a> плагина.
 Version: 1.1
 Author: Flector 
-Author URI: http://www.wordpressplugins.ru/
+Author URI: https://profiles.wordpress.org/flector#content-plugins
 */
 
 /*
