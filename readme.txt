@@ -3,7 +3,7 @@ Contributors: Flector
 Donate link: http://goo.gl/uhnS7k
 Tags: comments, comments_number, comments_popup_link
 Requires at least: 2.3
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 
 Плагин правильно склоняет слово "комментарии" в ссылках на комментарии.
